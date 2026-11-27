@@ -69,7 +69,7 @@ Useful testing areas include:
 
 Please include a screenshot when possible, the location or event, what you were doing, and whether the issue can be reproduced.
 
-**Beta access is private and available on request.** Contact wakabayashy through the team Discord. Access can be authorized individually.
+**Beta access is private and available on request.** Contact wakabayashy through my Discord server. Access can be authorized individually.
 
 ## Links
 
@@ -81,9 +81,9 @@ No public patch download is announced in this repository at this time.
 
 ## Credits
 
-**Team / project release:** wakabayashy
+**Project / release:** wakabayashy
 
-The project is maintained under the wakabayashy team. The project uses the official English PS3 localization for shared content; additional Xbox 360-exclusive content is translated and integrated separately.
+This independent project is maintained by wakabayashy. It uses the official English PS3 localization for shared content; additional Xbox 360-exclusive content is translated and integrated separately.
 
 ## Disclaimer
 
